@@ -1,5 +1,22 @@
 
-# ConceptualArchitecture
+# UPDATES
+
+The work spawned from here was a report which summed up a need for a consent standard for identity management in order to scale open notice. This resulted in an Open Consent project to create a standard starting at Kantara.   
+
+We are very happy to announce that this consent record standard was just officially vote on and approved at ISO full  filling the action at Kanatara.  
+
+Summary of voting on SC 27 N20243 – ISO/IEC NP 27560 - Privacy technologies — Consent record
+information structure 
+- 2020-04-08 JTC 1/SC 27 Secretariat
+Results:
+Agreed to be added to work program: 19 yes - 0 no - 33 Abstentions 
+
+The consent record standard update specication, for consent state records,  is a special multi organisation liason committee held at the Kantara Initiative that started in March - to vett the use of consent based record for data governance frameorks represente by NIST Privacy Framework, DIACC PCTF, MyData Operators Global - 
+
+More updates coming soon. 
+
+
+## ConceptualArchitecture
 
 ## Legal Notice Definition:
 
